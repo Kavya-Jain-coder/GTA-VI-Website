@@ -10,3 +10,10 @@ body {
   height: 100%;
   font-family: "pricedown";
 }
+.download:hover {
+  cursor: pointer;
+  background-color: greenyellow;
+  color: black;
+  border-radius: 5px;
+  box-shadow: 0 0 55px greenyellow;
+}
